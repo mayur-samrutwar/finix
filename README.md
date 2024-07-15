@@ -31,6 +31,6 @@ Finix transforms the way people interact with cryptocurrencies, making transacti
 
 Contact:
 
-(Email)[mailto:samrutwarmayur1@gmail.com] 
-(X)[https://twitter.com/mayursamr]
-Telegram - @BoatInTheSky
+ - (Email)[mailto:samrutwarmayur1@gmail.com] 
+ - (X)[https://twitter.com/mayursamr]
+ - Telegram - @BoatInTheSky
