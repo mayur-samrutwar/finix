@@ -27,3 +27,10 @@ For transactions via /send or /swap commands, the system prepares the transactio
 Users can either use an existing authenticator app or a dedicated Finix app. This app will overlay the current screen, allowing users to enter their passkey without leaving WhatsApp.
 
 Finix transforms the way people interact with cryptocurrencies, making transactions as easy as sending a text message on WhatsApp. This innovative approach has the potential to significantly enhance crypto adoption by providing a user-friendly, secure, and convenient solution.
+
+
+Contact:
+
+(Email)[mailto:samrutwarmayur1@gmail.com] 
+(X)[https://twitter.com/mayursamr]
+Telegram - @BoatInTheSky
