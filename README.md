@@ -1,3 +1,9 @@
+Introducing Finix: a WhatsApp-based wallet that operates through simple text commands.
+
+WhatsApp is the world’s largest messaging application, with over 2 billion monthly active users, far surpassing other platforms like Facebook Messenger and Telegram. Its user base continues to grow steadily.
+
+**Features**
+
 Finix leverages WhatsApp APIs to capture user commands and perform various actions. Users can:
 
 - Create a new wallet (linked to their phone number)
